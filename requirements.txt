@@ -1,0 +1,10 @@
+streamlit>=1.20
+pandas
+numpy
+scikit-learn
+sentence-transformers
+nltk
+python-dotenv
+transformers>=4.0.0
+tqdm
+joblib
